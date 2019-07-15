@@ -7,7 +7,7 @@
   "profiles": {
     "me": {
       "name": "Dian Hanifudin Subhi",
-      "gender" "Male",
+      "gender": "Male",
       "height": 172,
       "weight": 78,
       "dob": "1988-06-10"
